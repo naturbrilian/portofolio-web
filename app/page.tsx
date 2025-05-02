@@ -21,7 +21,7 @@ export default function Home() {
                 <p className="text-xl text-muted-foreground">Graphics Designer & Video Editor</p>
               </div>
               <p className="max-w-[600px] text-muted-foreground md:text-xl">
-               An a Vector Maker, Designer, Translator & Motion Graphics. (EN/ID).
+               An a Vector Maker, Designer, Translator & Motion Graphics (EN/ID).
               </p>
               <div className="flex flex-col gap-2 min-[400px]:flex-row">
                 <Link href="/contact">
@@ -60,9 +60,9 @@ export default function Home() {
                 </Link>
               </div>
             </div>
-            <div className="flex items-center justify-center">
+            <div className="flex items-right justify-right">
               <Avatar className="h-64 w-64 border-4 border-background shadow-xl">
-                <AvatarImage src="/placeholder.svg?height=256&width=256" alt="Liba Natur Brilian" />
+                <AvatarImage src="/avatar?height=256&width=256" alt="Liba Natur Brilian" />
                 <AvatarFallback className="text-4xl">LNB</AvatarFallback>
               </Avatar>
             </div>
