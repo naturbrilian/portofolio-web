@@ -14,23 +14,27 @@ export default function AboutPage() {
 
       <div className="grid gap-12 md:grid-cols-2 lg:gap-16 items-center">
         <div className="relative aspect-square overflow-hidden rounded-lg">
-          <Image src="/placeholder.svg?height=600&width=600" alt="Liba Natur Brilian" fill className="object-cover" />
+          <Image src="/avatar.jpg?height=600&width=600" alt="Liba Natur Brilian" fill className="object-cover" />
         </div>
         <div className="space-y-6">
           <div>
             <h2 className="text-2xl font-bold mb-4">Who I Am</h2>
             <p className="text-muted-foreground">
-              I'm a passionate graphics designer and video editor based in Indonesia. With years of experience in
-              multimedia and translation, I bring creativity and precision to every project I work on.
+              I’m Liba Natur Brilian and also known as Natur or gingalibadeidara, a video editor and graphics designer with a deep passion for technology, art, music and content creator.
+              Here, I share my recent project like design, video editing, vector, and blogging. I hope this platform can be a space to share inspiration, ideas, and engaging discussions with you.
             </p>
           </div>
 
           <div>
-            <h2 className="text-2xl font-bold mb-4">My Approach</h2>
+            <h2 className="text-2xl font-bold mb-4">Interesting</h2>
             <p className="text-muted-foreground">
-              I believe in creating visually compelling content that communicates effectively. Whether it's designing
-              graphics or editing videos, I focus on delivering high-quality work that meets my clients' needs and
-              exceeds their expectations.
+              **Technologies**
+              Already interested in technology since elementary school, initially because of the internet cafe era at that time. At first, I only knew the games that came with the operating system,
+              then in 2007 I got to know the internet and others.
+
+              **Music**
+              At first, it was because my father himself almost every Sunday morning played songs through a VCD player and cassette tape. At first, he was only interested in the genre of old western songs, then Indonesian songs,
+              hen to Kpop because of his junior high school friends at that time (yes,you know Super Junior and SNSD) until finally to JPop songs until now. Oh yes i also like classical music, Doujin music like touhou and etc.
             </p>
           </div>
 
