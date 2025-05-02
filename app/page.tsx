@@ -62,7 +62,7 @@ export default function Home() {
             </div>
             <div className="flex items-right justify-right">
               <Avatar className="h-64 w-64 border-4 border-background shadow-xl">
-                <AvatarImage src="/avatar?height=256&width=256" alt="Liba Natur Brilian" />
+                <AvatarImage src="/avatar.jpg?height=256&width=256" alt="Liba Natur Brilian" />
                 <AvatarFallback className="text-4xl">LNB</AvatarFallback>
               </Avatar>
             </div>
