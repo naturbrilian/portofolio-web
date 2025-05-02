@@ -148,6 +148,17 @@ export default function Home() {
                   </div>
                 </CardContent>
               </Card>
+             <Card>
+             <CardContent className="p-6">
+               <div className="flex flex-col space-y-2">
+                 <h3 className="text-xl font-bold">Video Editor and Graphics Designer</h3>
+                 <p className="text-sm text-muted-foreground">The Java Post ID | Dec 2024 - Present</p>
+                 <p className="text-muted-foreground">
+                   As a Graphics Designer, Video Editor and Admin Website.
+                  </p>
+                </div>
+              </CardContent>
+            </Card> 
             </div>
           </div>
         </div>
