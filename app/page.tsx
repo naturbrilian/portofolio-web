@@ -21,8 +21,7 @@ export default function Home() {
                 <p className="text-xl text-muted-foreground">Graphics Designer & Video Editor</p>
               </div>
               <p className="max-w-[600px] text-muted-foreground md:text-xl">
-                I create visually stunning designs and engaging video content. I'm also a translator for software & apps
-                (EN/ID).
+               An a Vector Maker, Designer, Translator & Motion Graphics. (EN/ID).
               </p>
               <div className="flex flex-col gap-2 min-[400px]:flex-row">
                 <Link href="/contact">
@@ -81,8 +80,8 @@ export default function Home() {
               </Badge>
               <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Who I Am</h2>
               <p className="max-w-[900px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                I'm a passionate graphics designer and video editor based in Indonesia. With years of experience in
-                multimedia and translation, I bring creativity and precision to every project I work on.
+               Hello i am Lieba Natur Brilian also people call me with Natur, im graphics designer, video editor and translator contributor for various services, apps and software.
+               Im also like watching anime and multifandom. Also people know me as gingalibadeidara on another website like alphacoders.
               </p>
             </div>
           </div>
@@ -99,7 +98,7 @@ export default function Home() {
               </Badge>
               <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">What I Do</h2>
               <p className="max-w-[900px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                I specialize in graphics design, video editing, and translation services.
+                I specialize in graphics design, video editing, write a blog and translation services.
               </p>
             </div>
             <div className="w-full max-w-3xl space-y-4 mt-8">
